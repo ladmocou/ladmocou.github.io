@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ladmocou.github.io/ladmocou.txt.gz
+Sitemap: https://ladmocou.github.io/app/ladmocou.txt.gz
+Sitemap: https://ladmocou.github.io/assets/ladmocou.txt.gz
+Sitemap: https://ladmocou.github.io/css/ladmocou.txt.gz
+Sitemap: https://ladmocou.github.io/includes/ladmocou.txt.gz
+Sitemap: https://ladmocou.github.io/item/ladmocou.txt.gz
+Sitemap: https://ladmocou.github.io/src/ladmocou.txt.gz
